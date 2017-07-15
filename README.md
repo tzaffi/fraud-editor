@@ -29,7 +29,7 @@ A scaffolded JSON editor for creating, testing and analyzing fraud rules.
 
 ## Installation
 
-Follow the `npm` download/install instructions as described in [the JSONEDITOR project](https://github.com/josdejong/jsoneditor#instal)
+Follow the `npm` download/install instructions as described in [the JSONEDITOR project](https://github.com/josdejong/jsoneditor#install)
 
 ## Links
 
