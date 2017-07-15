@@ -27,6 +27,10 @@ A scaffolded JSON editor for creating, testing and analyzing fraud rules.
     * [PFA](http://dmg.org/pfa/docs/motivation/)
 * Use for customer predictive analytics as well
 
+## Installation
+
+Follow the `npm` download/install instructions as described in [the JSONEDITOR project]((https://github.com/josdejong/jsoneditor#instal)
+
 ## Links
 
 * Current version based on JSONEDITOR
