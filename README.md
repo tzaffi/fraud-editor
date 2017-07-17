@@ -33,10 +33,10 @@ Follow the `npm` download/install instructions as described in [the JSONEDITOR p
 
 ## Links
 
-* Current version based on JSONEDITOR
+* Version [based on josdejong's JSONEDITOR](./josdejong.hml)
    * [github](https://github.com/josdejong/jsoneditor)
    * [demo](http://jsoneditoronline.org)
-* Better alternative by Jeremy Dorn? 
+* Preferred version [based on Jeremy Dorn's json-editor](./jeremydorn.html)
    * Can specify a schema interactively that generates a form
    * [github](https://github.com/jdorn/json-editor)
    * [demo]
