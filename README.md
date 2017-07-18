@@ -1,4 +1,6 @@
-# WYSYWIG Fraud Rule Editor
+# F.R.I.E.N.D
+
+## Fraud Rule Investigator, Engineer, Navigator and Deployer
 
 ## GOAL
 
